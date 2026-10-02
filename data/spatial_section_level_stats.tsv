@@ -1,0 +1,5 @@
+section	n_spots	n_tumor	n_stroma	defense_median_tumor	defense_median_stroma	defense_diff	reader_diff	spot_spearman_rho	disease	staging	treatment
+P10_T1	2199	1581	618	0.0272	-0.0367	0.0639	0.03	0.0458	LUAD	N0	treatment-naive
+P11_T1	1099	680	419	-0.0812	-0.127	0.0459	0.0071	0.0248	LUSC	N0	treatment-naive
+P17_T1	2655	2127	528	0.4891	0.0849	0.4042	0.0649	0.3342	NSCLC-NOS	N0	treatment-naive
+P24_T1	3352	2277	1075	0.0201	-0.0774	0.0975	0.0988	0.195	LUAD	N0	treatment-naive

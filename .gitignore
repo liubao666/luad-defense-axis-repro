@@ -1,0 +1,17 @@
+# raw data (downloaded from public accessions; see README)
+*.h5
+*.mtx
+*.mtx.gz
+*.tar
+*.rar
+*.zip
+*.gz
+!data/*.gz
+
+# caches
+__pycache__/
+*.pyc
+.DS_Store
+.Rhistory
+.RData
+scanpy_cache/

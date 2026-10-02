@@ -1,0 +1,37 @@
+{
+ "lepidic": [
+  "CTSZ",
+  "TNC",
+  "CD38",
+  "MPZL2"
+ ],
+ "acinar": [
+  "S100A6",
+  "SSR2",
+  "PYCR1",
+  "KDELR2",
+  "GRB14",
+  "MMP15",
+  "KDELR3",
+  "SMPDL3B",
+  "GSTA1",
+  "ILF2",
+  "MIF",
+  "HSP90AA1",
+  "COA3",
+  "TRIM2",
+  "NQO1",
+  "SPAG9",
+  "MRM2",
+  "PLA2G10",
+  "NELL1",
+  "FGD6",
+  "ESRP1",
+  "TSPAN6",
+  "CAMK1D",
+  "PRRC1",
+  "IARS2",
+  "IGFBP2",
+  "IMPA2"
+ ]
+}
